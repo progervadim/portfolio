@@ -16,12 +16,7 @@ section {
 .product{
     margin-top: 100px;
 }
-.active{
-    padding-right: 10px;
-    font-weight: 700;
-    font-size: 25px;
-    color: #ffffff;
-}
+
 .glav{
     padding-left: 10px;
 }
