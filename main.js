@@ -28,3 +28,4 @@ function toggleMenu(){
     menuToggle.classList.toggle('active');
     menu.classList.toggle('active')
 }
+jQuery('.lightzoom').lightzoom({speed: 400, viewTitle: true});
